@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         New Userscript
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        https://bbs.tampermonkey.net.cn/
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net.cn
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+      alert('HelloWorld')
+    // Your code here...
+})();
